@@ -1,7 +1,6 @@
 #!/bin/bash
 #Assignment 1
 #Mohamad Al-Jaf
-#500728521
 
 while echo -n "Player name? "
       read name
